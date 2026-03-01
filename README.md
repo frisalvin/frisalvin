@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-🎓 Fresh Graduate in Informatics  
+🎓 Bachelor’s Degree in Informatics – Universitas Dian Nuswantoro  
 🤖 Specialized in Artificial Intelligence & Machine Learning  
 📊 Experienced in Sentiment Analysis using IndoBERT & Transformer Models  
 🧠 Strong interest in Deep Learning, NLP, and Computer Vision  
