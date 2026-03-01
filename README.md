@@ -1,6 +1,6 @@
 <!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="banner.jpg" />
+  <img src="banner.png" />
 </p>
 
 <h1 align="center">Fris Alvin</h1>
