@@ -69,16 +69,14 @@
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="mailto:frisalvin@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/alvn.nv/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@alvn.nv">
-    <img src="https://skillicons.dev/icons?i=tiktok" />
-  </a>
-</p>
+<a href="mailto:frisalvin@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/alvn.nv/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.tiktok.com/@alvn.nv">
+  <img src="https://skillicons.dev/icons?i=tiktok" height="40" />
+</a>
