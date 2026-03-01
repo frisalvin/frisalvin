@@ -81,14 +81,18 @@
   <img src="https://cdn.simpleicons.org/tiktok/000000" height="40" />
 </a>
 
-<img src="https://raw.githubusercontent.com/frisalvin/frisalvin/output/snake.svg" alt="Snake animation" />
-
-###
+## 🐍 Contribution Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frisalvin/frisalvin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frisalvin/frisalvin/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frisalvin/frisalvin/output/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/frisalvin/frisalvin/output/snake.svg">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frisalvin/frisalvin/output/pacman-contribution-graph.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frisalvin/frisalvin/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frisalvin/frisalvin/output/pacman-contribution-graph.svg">
 </picture>
-
-###
