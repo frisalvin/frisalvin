@@ -78,5 +78,5 @@
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.tiktok.com/@alvn.nv">
-  <img src="https://cdn.simpleicons.org/tiktok/000000" height="40" />
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
