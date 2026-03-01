@@ -11,7 +11,7 @@
 ## 🚀 About Me
 🎓 Bachelor’s Degree in Informatics – Universitas Dian Nuswantoro  
 🤖 Focused on Artificial Intelligence & Machine Learning  
-📊 Experienced in IndoBERT, Deep Learning & Computer Vision  
+📊 Experienced in NLP, Deep Learning & Computer Vision  
 💡 Passionate about building intelligent real-world systems  
 
 ---
