@@ -80,5 +80,3 @@
 <a href="https://www.tiktok.com/@alvn.nv">
   <img src="https://cdn.simpleicons.org/tiktok/000000" height="40" />
 </a>
-
-https://raw.githubusercontent.com/frisalvin/frisalvin/refs/heads/output/snake.svg
