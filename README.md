@@ -15,7 +15,7 @@
 
 ## 🧠 AI & Machine Learning
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ## ⚙ Frameworks & Deployment
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
@@ -36,7 +36,7 @@
 
 ## 💾 Database
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -44,7 +44,7 @@
 
 ## 💻 Programming Languages
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -60,7 +60,7 @@
 
 ## 🎨 Design Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
@@ -69,17 +69,16 @@
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.instagram.com/alvn.nv/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<p align="center">
+  <a href="mailto:yourgmail@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/alvn.nv/">
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@alvn.nv">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/tiktok.png" width="40"/>
   </a>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
