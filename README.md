@@ -80,3 +80,17 @@
 <a href="https://www.tiktok.com/@alvn.nv">
   <img src="https://cdn.simpleicons.org/tiktok/000000" height="40" />
 </a>
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frisalvin/frisalvin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frisalvin/frisalvin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frisalvin/frisalvin/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/frisalvin/frisalvin/output/snake.svg" alt="Snake animation" />
+
+###
